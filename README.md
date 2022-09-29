@@ -2,7 +2,7 @@
 - 👀 I’m interested in Ecom and javascript
 - 🌱 I’m currently learning ecom and javasript
 - 💞️ I’m looking to collaborate on new interesting projects
-- 📫 How to reach me on twitter @kroger221
+- 📫 How to reach me you can follow me on twitter @kroger221
 
 
 <!---
