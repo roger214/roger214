@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ecom and javasript
 - 💞️ I’m looking to collaborate on new interesting projects
 - 📫 How to reach me you can follow me on twitter @kroger221
-
+- i want to build something special
 
 <!---
 roger214/roger214 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
